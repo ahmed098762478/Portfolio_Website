@@ -1,9 +1,9 @@
-import project1 from "../assets/ahmed.png";
+ import project1 from "../assets/ahmed.png";
 import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
 
-export const HERO_CONTENT = `I am a full stack Java developer passionate about building robust and scalable web applications. I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Spring-Boot, MySQL, PostgreSQL, Oracle, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
+export const HERO_CONTENT = `I am an aspiring full stack Java developer, eager to build my expertise in developing web applications. While I am still in the early stages of my journey, I have gained hands-on experience with front-end technologies like React and Angular, as well as back-end tools like Spring Boot, Java EE, and databases such as MySQL and PostgreSQL. I am committed to continuously learning and growing to deliver innovative and effective solutions.`;
 
 export const ABOUT_TEXT = `I am a dedicated and versatile full stack Java developer with a passion for creating efficient and user-friendly web applications. I have worked with a variety of technologies, including React, Angular,Spring-Boot, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies and working with other people.`;
 
