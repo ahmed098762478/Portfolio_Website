@@ -19,7 +19,7 @@ const Skills = () => {
           </h2>
           <div>
             <p className="font-semibold">Languages:</p>
-            <p>Java, HTML, CSS, JavaScript, C, C++</p>
+            <p>Java 17, HTML, CSS, JavaScript</p>
 
             <p className="font-semibold mt-4">Libraries and Frameworks:</p>
             <p>React, Angular, Spring Boot, Bootstrap, Tailwind CSS, Ajax, jQuery, Swing</p>
@@ -30,15 +30,13 @@ const Skills = () => {
             <p className="font-semibold mt-4">IDE:</p>
             <p>IntelliJ, VSCode, Eclipse, NetBeans</p>
 
-            <p className="font-semibold mt-4">DevOps :</p>
-            <p>Git, Github, JUnit, Mockito, Docker, Kubernetes, Ansible</p>
           </div>
         </div>
 
         {}
         <div
           className="p-6 shadow-lg hover:shadow-white hover:scale-105 transition-all duration-300 mb-6 w-full md:w-1/3"
-          data-aos="fade-up" 
+          data-aos="fade-up"  
           data-aos-duration="1000" 
           data-aos-delay="300" 
         >
@@ -81,6 +79,29 @@ const Skills = () => {
             <p>Resilience</p>
           </div>
         </div>
+        <div
+          className="p-6 shadow-lg hover:shadow-white hover:scale-105 transition-all duration-300 mb-6 w-full md:w-1/3"
+          data-aos="fade-up"
+          data-aos-duration="1000" 
+          data-aos-delay="500" 
+        >
+          <h2 className="text-2xl font-bold mb-4 text-center text-blue-900 flex items-center justify-center">
+            <FaLightbulb className="mr-2" /> DEVOPS
+          </h2>
+        
+          <div>
+            <p>Git</p>
+            <p>Github</p>
+            <p>JUnit</p>
+            <p>Mockito</p>
+            <p>Postman</p>
+            <p>Jenkins</p>
+            <p>Docker</p>
+            <p>Kubernetes</p>
+            <p>Ansible</p>
+          </div>
+        </div>
+
       </div>
     </div>
   );

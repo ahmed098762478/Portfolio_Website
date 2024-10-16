@@ -17,7 +17,7 @@ const projects = [
   {
     title: 'Development of a chat application',
     description: '',
-    tools: 'Tools used: Spring Boot, Maven, Thymeleaf, MongoDB.',
+    tools: 'Tools used: Spring Boot, Websockets, Thymeleaf, MongoDB.',
   },
   {
     title: 'Development of a desktop application for item management',
