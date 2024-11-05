@@ -43,7 +43,7 @@ const Experience = () => {
               <li>Performance of unit, functional and integration tests.</li>
             </ul>
             <p className="mt-2 font-semibold">Technical environment:</p>
-            <p>Java 17, Spring Boot, Maven, Reactjs, MySQL, Postman, Bootstrap, jQuery, JUnit</p>
+            <p>HTML,PHP,CSS,Javascript, MySQL, Bootstrap, jQuery</p>
           </div>
         </div>
       </div>
