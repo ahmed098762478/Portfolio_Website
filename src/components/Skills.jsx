@@ -95,10 +95,8 @@ const Skills = () => {
             <p>JUnit</p>
             <p>Mockito</p>
             <p>Postman</p>
-            <p>Jenkins</p>
             <p>Docker</p>
             <p>Kubernetes</p>
-            <p>Ansible</p>
           </div>
         </div>
 
