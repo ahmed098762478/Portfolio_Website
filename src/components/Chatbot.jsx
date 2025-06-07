@@ -22,7 +22,7 @@ const Chatbot = () => {
     const lower = option.toLowerCase();
     if (lower.includes('education')) {
       reply = 'I am currently completing a State Engineering degree in Computer Engineering at EMSI Rabat (2020–2025), where I have developed strong skills in software development, systems architecture, and emerging technologies. Prior to that, I pursued studies at the Faculty of Medicine and Pharmacy of Casablanca (FMPC) from 2016 to 2020. In 2016, I earned my Baccalaureate in Science with a Physical Sciences option, graduating with honors (“Very Good” distinction) from Assahoua School in Benslimane.';
-    } else if (lower.includes('projects')) {
+    } else if (lower.includes('my final year project') || lower.includes('final year project')) {
       reply = 'I have built several full-stack apps using React, Node.js, and MongoDB. Check out my portfolio section!';
     } else if (lower.includes('about')) {
       reply = "Currently, I'm a graduate engineer in computer and network engineering with a specialization in MIAGE. I specialize in full-stack Java development with a solid foundation in front-end technologies such as React.js and Angular. Through my academic and personal projects, I've acquired skills in building complete web applications, from the front-end to the scalable back-end using Spring Boot. At the same time, I'm interested in DevOps practices, particularly in automating the application lifecycle. I have a good command of Git and GitHub, as well as unit testing with JUnit and Mockito. My basic knowledge also extends to tools such as Docker and Kubernetes, Gitlab, and Jenkins, which I continue to explore and apply in real-world environments.";
@@ -37,7 +37,7 @@ const Chatbot = () => {
   }, [messages]);
 
 
-  const quickOptions = ['My final year project', 'Education', 'About Me'];
+  const quickOptions = ['my final year project', 'Education', 'About Me'];
 
   return (
     <div className="fixed bottom-4 right-4 z-50">
