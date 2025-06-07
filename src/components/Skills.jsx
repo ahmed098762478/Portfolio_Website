@@ -2,7 +2,7 @@ import { FaCode, FaProjectDiagram, FaLightbulb } from 'react-icons/fa';
 
 const Skills = () => {
   return (
-    <div className="my-20">
+    <div className="my-20">  
       <h1 className="text-center text-4xl mb-12" data-aos="fade-up" data-aos-duration="1000">Skills</h1>
 
       <div className="flex flex-wrap justify-center space-x-10">

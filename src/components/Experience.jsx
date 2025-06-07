@@ -28,7 +28,7 @@ const Experience = () => {
   
           {}
           <div className="p-6 shadow-lg hover:shadow-white hover:scale-105 transition-all duration-300" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="300">
-            <h2 className="text-xl font-bold mb-2 text-blue-400">Summer Internship in Study and Development</h2>
+            <h2 className="text-xl font-bold mb-2 text-blue-400"> Summer Internship – Web Application Development</h2>
             <p className="font-semibold">From July 2023 to September 2023 | TEMA CONCEPT Témara</p>
             <p className="mt-2">Creation of a web application for employee management:</p>
             <ul className="list-disc ml-5">
